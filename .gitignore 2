@@ -1,0 +1,52 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Ignore Unity auto-generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Auto-generated Project Files
+*.vcxproj
+*.vcxproj.*
+*.tmp_proj
+*.cmake
+CMakeLists.txt
+*.sln
+*.sln.docstates
+
+# Include necessary project files
+!Assets/
+!ProjectSettings/
+!Packages/manifest.json
+
+# Rokid AR Platform and other XR plugins
+!Packages/lock.json
+!Packages/packages-lock.json

@@ -35,6 +35,8 @@ public class WorldMover : MonoBehaviour
 
     public void MoveWorld()
     {
+        // 检查是否已经在播放音频
+        if (audioSource.isPlaying) return;
         if (isMoving) return;
         isMoving = true;
 
@@ -73,8 +75,8 @@ public class WorldMover : MonoBehaviour
                 worldObject.transform.position = newPosition;
             }
 
-            elapsedTime += 0.2f;
-            yield return new WaitForSeconds(0.2f);
+            elapsedTime += 0.05f;
+            yield return new WaitForSeconds(0.05f);
         }
 
         // 停止音频播放

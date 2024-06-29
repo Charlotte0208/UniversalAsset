@@ -6,6 +6,10 @@ public class CabinToFarm : MonoBehaviour
     public GameObject CabinAirWall;
     public GameObject FarmAirWall;
 
+    // 新增的两个 public GameObject 变量
+    public GameObject object1;
+    public GameObject object2;
+
     // Public audio clip to play during the transition
     public AudioClip transitionClip;
 
@@ -65,6 +69,17 @@ public class CabinToFarm : MonoBehaviour
         // Set the position and rotation
         world.transform.position += new Vector3(4.8f, 0, 24);
         world.transform.rotation = Quaternion.Euler(0, 90, 0);
+
+        // 提高 object1 和 object2 的 y 轴坐标
+        if (object1 != null)
+        {
+            object1.transform.position += new Vector3(0, 0.2f, 0);
+        }
+
+        if (object2 != null)
+        {
+            object2.transform.position += new Vector3(0, 0.2f, 0);
+        }
 
         FarmAirWall.SetActive(true);
 

@@ -6,20 +6,26 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Harvesting Wartime Whisper 6.26/new scenes/start scene normal.unity
+    path: Assets/Harvesting Wartime Whisper 6.28/new scenes/start scene normal.unity
     guid: 76a7aad1fd9c28046971f860dee92277
   - enabled: 1
-    path: Assets/Harvesting Wartime Whisper 6.26/new scenes/Cabin & Farm.unity
+    path: Assets/Harvesting Wartime Whisper 6.28/new scenes/enter Cabin.unity
+    guid: 8bb21e0c664e6224d913af4ab8c8a4a4
+  - enabled: 1
+    path: Assets/Harvesting Wartime Whisper 6.28/new scenes/Cabin & Farm.unity
     guid: 80cf032e0b47c574383d9ca1d88210ba
   - enabled: 1
-    path: Assets/Harvesting Wartime Whisper 6.26/new scenes/War.unity
+    path: Assets/Harvesting Wartime Whisper 6.28/new scenes/War.unity
     guid: e2f6d192d5798094fa91f0c8132a4c91
   - enabled: 1
-    path: Assets/Harvesting Wartime Whisper 6.26/new scenes/Hospital.unity
+    path: Assets/Harvesting Wartime Whisper 6.28/new scenes/Hospital.unity
     guid: 149f6c25b169c8d4b9ace0a4fc1a4dce
   - enabled: 1
-    path: Assets/Harvesting Wartime Whisper 6.26/new scenes/Street.unity
+    path: Assets/Harvesting Wartime Whisper 6.28/new scenes/Street.unity
     guid: fcd165bece7194d40b1eb5398a2b1058
+  - enabled: 1
+    path: Assets/Harvesting Wartime Whisper 6.28/new scenes/The End.unity
+    guid: ddbd0a53771e47d498eec19b1081f2e5
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 4b1d5a042e31248bd96476a68f09d908,
       type: 2}

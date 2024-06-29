@@ -232,7 +232,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bde1d930dc3028b43b08cfe3d1cad140, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: cabin & farm
+  sceneToLoad: enter Cabin
   blackoutDuration: 0.5
 --- !u!1001 &983667153
 PrefabInstance:

@@ -8,7 +8,8 @@ public class WorldMoverAlternate : MonoBehaviour
     public AudioClip audioClip;            // 音频片段
     public AudioSource secondaryAudioSource; // 第二个音频播放器
     public GameObject airWall;             // 空气墙
-
+    public GameObject Wall;
+    
     private GameObject worldObject;        // 世界物体
     private Vector3 originalPosition;      // 世界物体的初始坐标
 
@@ -70,9 +71,16 @@ public class WorldMoverAlternate : MonoBehaviour
 
             yield return null;
         }
+        
+
 
         // 等待2秒
         yield return new WaitForSeconds(2f);
+        
+        if (Wall != null)
+        {
+            Wall.SetActive(false);
+        }
 
         // 显现空气墙
         if (airWall != null)

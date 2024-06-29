@@ -3,7 +3,7 @@ using UnityEngine;
 public class InteractiveObjectController : MonoBehaviour
 {
     public Canvas canvas;  // 需要显示和隐藏的Canvas
-    private float distanceFromCamera = 1.1f;  // Canvas距离摄像机的距离
+    private float distanceFromCamera = 1.3f;  // Canvas距离摄像机的距离
     public Vector3 canvasSize = new Vector3(0.001f, 0.001f, 0.001f);  // Canvas的大小
 
     private Camera mainCamera;

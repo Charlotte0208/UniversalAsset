@@ -24,6 +24,12 @@ EditorBuildSettings:
     path: Assets/Harvesting Wartime Whisper 6.28/new scenes/Street.unity
     guid: fcd165bece7194d40b1eb5398a2b1058
   - enabled: 1
+    path: Assets/Harvesting Wartime Whisper 6.28/new scenes/War 2.unity
+    guid: 73e973b8f0606aa4caadce89aeb24b6b
+  - enabled: 1
+    path: Assets/Harvesting Wartime Whisper 6.28/new scenes/Graveyard.unity
+    guid: 0bf34627480dd7c47a69035e568f6edf
+  - enabled: 1
     path: Assets/Harvesting Wartime Whisper 6.28/new scenes/The End.unity
     guid: ddbd0a53771e47d498eec19b1081f2e5
   m_configObjects:

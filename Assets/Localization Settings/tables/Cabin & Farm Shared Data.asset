@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Cabin & Farm Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Cabin & Farm
+  m_TableCollectionNameGuidString: ce6c5a39eebc8924cb8acee58057eb61
+  m_Entries:
+  - m_Id: 32171220992
+    m_Key: Fireplace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1064427184128
+    m_Key: Chair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4307527656136704
+    m_Key: Food
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4307552616439808
+    m_Key: Book
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4307771122900992
+    m_Key: Gun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4307789577838592
+    m_Key: Candlestick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4307834238787584
+    m_Key: Denoter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4307950270013440
+    m_Key: Car
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4307970067128320
+    m_Key: Rocking chair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4308190553300992
+    m_Key: Next scene
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8609044160546603152
+  references:
+    version: 2
+    RefIds:
+    - rid: 8609044160546603152
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1727872982979

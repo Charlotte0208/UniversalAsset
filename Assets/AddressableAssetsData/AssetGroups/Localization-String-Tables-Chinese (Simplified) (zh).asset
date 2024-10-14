@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Chinese (Simplified) (zh)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Chinese (Simplified) (zh)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: fe4b7649c0a88b24bbd5ae826e044282
+  m_SerializeEntries:
+  - m_GUID: bf3c36c6a6def6241ba2e0f96042fd7b
+    m_Address: Cabin & Farm_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    - Preload
+  - m_GUID: 2b0d996c9f91ef141b9bf464339822cb
+    m_Address: War_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    - Preload
+  - m_GUID: 737e2e78714c3e5449d8a23a1fd1542e
+    m_Address: hospital_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    - Preload
+  - m_GUID: e39238ca39a2e104590f754ceb17f19e
+    m_Address: street_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    - Preload
+  - m_GUID: 4dafd3abc4050a0438ed5792f4d57bf7
+    m_Address: war 2_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    - Preload
+  - m_GUID: 759d3ade50846aa4fb7faf54b32e49d0
+    m_Address: others_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: eefeb0db5c982384d9853911e46b0ef9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d9421d2acdfd13e49929d16232d24fde, type: 2}
+    - {fileID: 11400000, guid: b4f198678bf482b409d7a7295f8276b2, type: 2}

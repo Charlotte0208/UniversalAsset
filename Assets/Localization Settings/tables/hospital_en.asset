@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: hospital_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 284935b1360406f4e937a5b956b52529, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 164702838784
+    m_Localized: Items that are always available in a field hospital. The toolbox
+      contains some weapons for self-defense, and ropes are indispensable no matter
+      where you are. In this chaotic period when the supply of materials from the
+      outside world is extremely unstable, the nurses led by Helen cannot use the
+      items in the box at will unless it is absolutely necessary, nor can they disclose
+      the contents to every injured person without restraint.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211700015104
+    m_Localized: After parting with William, Helen came to the field hospital closest
+      to the front line. She has nothing to lose, so she has nothing to retreat from.
+      Therefore, when she learned that typhus was spreading in the crowded hospital,
+      although worried about the health of the soldiers, she was not afraid of contracting
+      the fatal disease herself. However, when she grasped the first words of the
+      newly rescued soldier after waking up one day, "Save William Miller", she finally
+      faced the reality that she could never go back to the time when she was a child
+      and ride in a truck filled with the aroma of wheat with her brother any longer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 250262446080
+    m_Localized: Yesterday, a soldier lay on this bed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657168654336
+    m_Localized: Before used to hold medical drugs, it was a suitcase brought by
+      Helen. But now that she has arrived, the suitcase with her luggage has lost
+      its original job. Different doctors, nurses, and injured people have taken
+      the medicine in it or held its handle tightly in the days passed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 419066404864
+    m_Localized: Storing a lot of medicines, gauze, needles and scalpels. Only a
+      small part was prepared at the beginning of the war, and the rest came from
+      material supplies and people's help.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 533554126848
+    m_Localized: A country doctor whose son has gone to the front and whose husband
+      has died in World War I.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 572108169216
+    m_Localized: She is about the same age as Helen and was a primary school teacher
+      before coming here. But unlike Helen, she got married in her hometown and has
+      two daughters.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 596837785600
+    m_Localized: The bed sheets from the hospital are made into simple curtains with
+      holes punched in them. On the one hand, it is to block the enemy's sight, and
+      on the other hand, it can allow doctors and nurses to focus more on treating
+      the wounded.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

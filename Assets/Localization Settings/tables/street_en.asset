@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: street_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 6b4d8f57a8157ba469fd099fdf350053, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8829919232
+    m_Localized: 'See the crowd over there? The employees are protesting because
+      they can''t get their wages, but they don''t know that the factory owner has
+      already taken the lead and drove his whole family into the sea the day before
+      yesterday. Although this is an exception, most companies are indeed struggling
+      now, but not as bad as this one. Robert Miller, a newcomer in the automotive
+      field and a young boss two blocks away, is also about to go bankrupt.
+
+      Welcome
+      back to 1929, traveler from the future.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44028518400
+    m_Localized: 'Clocks, which became popular rapidly after the Industrial Revolution,
+      counts down the next shift for every laborer in the factory area.
+
+      The
+      life of working from sunrise to sunset no longer exists in the steel forest.
+
+      How
+      many clocks can you see in the visible area?
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57748086784
+    m_Localized: "Products from the booming transportation industry. Since the realization
+      of assembly line production, countless workers and ambitious entrepreneurs
+      have joined this domain. Workers in uniform assemble various parts of the car,
+      and they themselves have become dispensable parts in the huge urban machine.
+      Being an unreachable luxury throughout ordinary people\u2019s life, how would
+      these vehicles be abandoned by the celebrities?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88651718656
+    m_Localized: Small flowers that may not be carefully cultivated, but are planted
+      in exquisite stone altars.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70129672192
+    m_Localized: After several major infectious diseases, urban sanitation has gradually
+      been taken seriously. Sewer pipes have become more systematic and there is
+      a growing number of trash cans which have been placed on both sides of the
+      road.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114589294592
+    m_Localized: Panic spreads on Wall Street as stocks plunge.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: others_zh
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: zh
+  m_SharedData: {fileID: 11400000, guid: ee87b98ddcc65e9499fd05f2683c110b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6598549504
+    m_Localized: "\u672C\u6E38\u620F\u4EC5\u652F\u6301\u4F7F\u7528rokid station\u8FDB\u884C\u4EA4\u4E92\n\u6211\u4EEC\u63A8\u8350\u60A8\u4E8E\u5F00\u9614\u7A7A\u95F4\u6E38\u73A9\u672C\u6E38\u620F\n\u611F\u8C22\u60A8\u7684\u914D\u5408\n\uFF08\u8BF7\u60A8\u70B9\u51FB\u8FD9\u6BB5\u6587\u5B57\u4EE5\u7EE7\u7EED\uFF09"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1391620644864
+    m_Localized: "\u611F\u8C22\u60A8\u6E38\u73A9\u6211\u4EEC\u7684\u4F5C\u54C1\uFF01"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1576677531648
+    m_Localized: "\u5F00\u53D1\u56E2\u961F\nConflux"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2397087588352
+    m_Localized: "\u5236\u4F5C\u4EBA\nCharlotte\u9AD8\u749F\u6668\nEric\u8881\u4F73\u7FD4 "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1597313507328
+    m_Localized: "\u6307\u5BFC\u6559\u5E08\n\u5F20\u661F\u6668 (Ian)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1618138226688
+    m_Localized: "\u613F\u4E16\u95F4\u518D\u65E0\u6218\u4E89"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

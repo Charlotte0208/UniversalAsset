@@ -6,6 +6,7 @@ public class AirWall : MonoBehaviour
     private FollowTargetPosition followScript; // 引用 FollowTargetPosition 脚本
     private GameObject world;
 
+    
     void Start()
     {
         // 查找带有 "Player" 标签的游戏对象

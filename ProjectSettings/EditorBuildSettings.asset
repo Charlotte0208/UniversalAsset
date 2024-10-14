@@ -37,6 +37,10 @@ EditorBuildSettings:
       type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: aca21216c255244f6921fd940642a26d,
       type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 7b99932174467024aab38753046fd6c9,
+      type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 4cf4ddac9490181438d282a67e9e6a19,
+      type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: ff09c0b61ed9440719c910c6eaae21ec,
       type: 2}
     com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 7d3bb4e5946e54c009617f0335ad8be3,

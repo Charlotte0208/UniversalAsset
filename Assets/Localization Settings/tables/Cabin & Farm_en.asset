@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cabin & Farm_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: ce6c5a39eebc8924cb8acee58057eb61, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 32171220992
+    m_Localized: '1901, the cottage. The owners of the house, John and Mary, are
+      preparing for the cold winter before their eldest son, Robert, is born.
+
+      As
+      a family that has run the farm for centuries, the Millers have always been
+      self-sufficient in their daily necessities, from dried wood to delicious apple
+      pie.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1064427184128
+    m_Localized: Not only food, but also making furniture and building houses by
+      themselves is common for people on the farm. Since John and Mary got married
+      five years ago, they have been adding bricks and tiles to the wooden house
+      little by little, turning it into a small home with a warm atmosphere.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4307527656136704
+    m_Localized: In addition to crops, the hardworking young couple also find other
+      ways to increase their family's income. John is good at gathering and hunting,
+      and in addition to meat, warm fur is also very popular in the neighborhood.
+      As for the sweet and sour fruits, they were carefully baked into various kinds
+      of bread and snacks by Mary's skillful hands. So over the years, the Millers
+      have amassed a small fortune.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4307552616439808
+    m_Localized: While the two are happy with their current life, they also know
+      that farming from generation to generation is not a long-term solution. They
+      love to read books and newspapers, learn about the history of their own country,
+      and hear about the rapid development of cities far away from them. Sometimes,
+      they also secretly hope that their children can stand on the tide of the development
+      of The Times.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4307771122900992
+    m_Localized: These are the weapons John uses for hunting, two of which were given
+      to him by his father. He made rugs and bedding from the fur he hunted, and
+      by doing so he lasted through the most difficult winters.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4307789577838592
+    m_Localized: Although the Millers have installed electric lights as a family
+      with better conditions in the surrounding area, candles are still a necessity
+      for this rural family because the power system near the farm is unstable and
+      often affected by heavy snow, wind and rain. The warm candlelight is not only
+      the childhood of the stove, but also an inch of hope when the thick snow blocks
+      the door and the dry firewood is used up.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4307834238787584
+    m_Localized: In 1930, John and Mary are both missing. Mary died of tuberculosis
+      several years ago, and John, whose body was no longer strong due to long-term
+      labor, fell ill after the Great Depression of 1929, which dealt a devastating
+      blow to the farm's income. Now their eldest son Robert has established a business
+      in the city, and the only remaining laborers on the farm are the second son
+      William and the youngest daughter Helen. Helen is only 14 years old this year.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4307950270013440
+    m_Localized: The family bought this in the 1920s before Mary died. It was 80%
+      new, dark red to match the farm decoration, and the body was modified by John
+      and William to make it more convenient for transporting grain. Sometimes, if
+      the four of them want to go to the market together, the loving couple would
+      sit on the seat, and young William would always sing to his babbling sister
+      in the morning breeze and sunset.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4307970067128320
+    m_Localized: Even after decades, Mary's favorite thing to do in her spare time
+      is still to sew sweaters while basking in the sun in a rocking chair. However,
+      after giving birth to three children, she no longer bothers to study the popular
+      patterns, but tries to use the warmest wool to knit the thickest and most airtight
+      scarves and hats. She keeps some at home, and the warmest one is always carefully
+      packed in a paper bag, along with thick envelopes and cookies baked by her
+      children, and sent to Robert in the east.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4308190553300992
+    m_Localized: '"...Stock market crash, Wall Street..."
+
+      "Corn prices cut
+      in half...Wheat prices reduced by 60%, and are expected to rise further..."
+
+      "...As
+      of November 5, tons of food have rotted because no one bought them."
+
+'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

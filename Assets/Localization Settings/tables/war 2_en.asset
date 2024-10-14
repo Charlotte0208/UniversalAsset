@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: war 2_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 28c9ed5ce0314144bac2c4be772301e5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11191312384
+    m_Localized: "1962, Vietnam.\r\nDavid Miller is participating in the first and
+      last war in his life and came to this alien country. He thinks of his uncle
+      David who died in the battlefield of World War II. What was his mood for participating
+      in the war?\r\nHe also thinks of his father Robert who made his fortune in
+      the automobile industry and his brother Michael who inherited his father's
+      business. On the other side of the ocean, they know that he is here and that
+      he might never return home, so how long will their memories for him last?\r\nHe
+      fires a gun and is hit by a bullet.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40375279616
+    m_Localized: Civilians who originally lived in the war district have moved into
+      the safe zone in advance. It is human instinct to seek benefits and avoid harm,
+      no matter how many precious personal belongings and memories they have in the
+      house.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120104804352
+    m_Localized: "William's daughter Susan later became an elementary school teacher.
+      One day, she had a dream.\r\nIn the dream, the sky was an endless white ocean,
+      the sun was warm, and she, still young and naive, was running on the lawn with
+      her childhood playmates.\r\nBut in the blink of an eye, the white sky turned
+      black, a black curtain fell from the sky, and she heard the sound of bullets.
+      War, misfortune, and the torrent of the times engulfed every member of her
+      family, including herself.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58427564032
+    m_Localized: 'The product of technological development, the carrier that gives
+      humans air superiority, and a powerful war tool.
+
+      People are fighting
+      to the death to develop technology and military, but in the end, the guns are
+      also aimed at themselves.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100169277440
+    m_Localized: When the roof of the house next to him collapsed, David was almost
+      crushed. He thought ironically to himself that maybe his uncle William was
+      lucky, at least he had enough time to reminisce before the end of his life,
+      but now, fighting in the daytime when he is almost completely visible to the
+      enemy, any accident may easily take his life.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

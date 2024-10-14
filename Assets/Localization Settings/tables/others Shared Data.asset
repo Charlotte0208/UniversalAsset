@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: others Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: others
+  m_TableCollectionNameGuidString: ee87b98ddcc65e9499fd05f2683c110b
+  m_Entries:
+  - m_Id: 6598549504
+    m_Key: start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1391620644864
+    m_Key: thanks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1576677531648
+    m_Key: team
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1597313507328
+    m_Key: professor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1618138226688
+    m_Key: thesis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2397087588352
+    m_Key: producer
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8609044435187007489
+  references:
+    version: 2
+    RefIds:
+    - rid: 8609044435187007489
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1728917717525

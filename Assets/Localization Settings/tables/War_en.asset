@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: War_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 609d421c5c798044a99efbb603d0911e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 137574080512
+    m_Localized: Helen left home with William. Although the siblings no longer lived
+      in the cabin, they had always kept in touch with each other. Before leaving,
+      one said goodbye to his wife and children, and the other packed all her luggage.
+      Before leaving for the conscription point, they checked the last baggage taken
+      from home for the other. Is the rope tied tightly? It is. If the rope between
+      us breaks, I will bless you silently with all my sincerity.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 419724910592
+    m_Localized: When he left home, he took the gun on the wall with him. Thanks
+      to the careful maintenance of three generations, the barrel was covered with
+      dust but not rusted, and the wooden grip had faint traces of calluses on the
+      palms of his father and grandfather. Now it has fired its last bullet and lies
+      on the soil full of shells. William looks at it and thought, I may not be able
+      to take you home any more.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 400632438784
+    m_Localized: Before William lost his last bit of mobility, he dragged his teammates
+      who were injured but still alive to the trench. This place is far away from
+      the front line, leeward, and there is an abandoned medical tent that could
+      shield him from shrapnel and heavy rain. He started a fire, tried to keep his
+      comrades warm, and fired the only remaining flare into the air.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 374053134336
+    m_Localized: In the winter of 1941, 32-year-old William arrives at the battlefield
+      of World War II. Both he and his sister gave up their farm and came to the
+      front. However, unlike his sister who has not yet started a family, William
+      already has a wife and a pair of children. The siblings are Susan and Richard,
+      and they are both studying in the city. Before leaving, their last memory of
+      each other is a deep hug.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
